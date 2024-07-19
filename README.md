@@ -11,3 +11,5 @@ In this project :
 GetX : State Management
 Hive : Local Storage
 Local Notifications : Implemented
+
+Generated APK Attached.
